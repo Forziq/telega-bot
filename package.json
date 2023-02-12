@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forziq/telega-bot.git"
+  },
+  "author": "forz, PD1m0n123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Forziq/telega-bot/issues"
+  },
+  "homepage": "https://github.com/Forziq/telega-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
