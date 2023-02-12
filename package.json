@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Forziq/telega-bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.1.0"
   }
 }
